@@ -1,7 +1,7 @@
 # Awesome Privacy Front-ends
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![License](https://img.shields.io/badge/license-CC0%201.0-green)(LICENSE.md)
+[![License](https://img.shields.io/badge/license-CC0%201.0-green)](LICENSE.md)
 
 A curated list of _awesome_ alternative front-ends to popular services such as YouTube, Twitter, and Facebook. **With a focus on privacy**.
 
