@@ -23,7 +23,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [Quora](#quora)
   - [Reuters](#reuters)
   - [Search Engines](#search-engines)
-  - [Stack Overflow](#stackoverflow)
+  - [Stack Overflow](#stack-overflow)
   - [TikTok](#tiktok)
   - [Twitch](#twitch)
   - [Twitter](#twitter)
