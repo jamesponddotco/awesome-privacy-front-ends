@@ -25,6 +25,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [Search Engines](#search-engines)
   - [Stack Overflow](#stack-overflow)
   - [TikTok](#tiktok)
+  - [Tumblr](#tumblr)
   - [Twitch](#twitch)
   - [Twitter](#twitter)
   - [Ultimate Guitar](#ultimate-guitar)
@@ -145,6 +146,12 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 ### TikTok
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source, privacy-focused, alternative front-end for TikTok made using PHP. `PHP/AGPL-3.0`.
+
+**[⬆ back to top](#contents)**
+
+### Tumblr
+
+- [Priviblur](https://github.com/syeopite/priviblur) - A privacy-focused front-end to Tumblr with a touch of modern design. `Python/AGPL-3.0`.
 
 **[⬆ back to top](#contents)**
 
