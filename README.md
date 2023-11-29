@@ -190,6 +190,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [CloudTube](https://sr.ht/~cadence/tube/) - Private YouTube video viewer, like Invidious. `JavaScript/AGPL-3.0`.
 - [Invidious](https://github.com/iv-org/invidious) - A lightweight alternative front-end for YouTube that has no tracking or ads. Requires no JavaScript to function. `Crystal/AGPL-3.0`.
+- [LightTube](https://github.com/kuylar/LightTube) - A lightweight, privacy respecting alternative front-end for YouTube. `C#/AGPL-3.0`.
 - [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. `JavaScript/AGPL-3.0`.
 - [Poketube](https://codeberg.org/Ashley/poketube/) - Libre, free, and privacy first front-end for YouTube with libre codecs. `JavaScript/GPL-3.0`.
 
