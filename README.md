@@ -172,6 +172,8 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [freetar](https://github.com/kmille/freetar) - An alternative front-end for ultimate-guitar.com with a simple design. No ads or pop-ups. `Python/GPL-3.0`.
 
+**[⬆ back to top](#contents)**
+
 ### Urban Dictionary
 
 - [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - A privacy-respecting Urban Dictionary client, powered by Flask. `Python/AGPL-3.0`.
