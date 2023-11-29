@@ -27,6 +27,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [TikTok](#tiktok)
   - [Twitch](#twitch)
   - [Twitter](#twitter)
+  - [Ultimate Guitar](#ultimate-guitar)
   - [Urban Dictionary](#urban-dictionary)
   - [Wikipedia](#wikipedia)
   - [YouTube](#youtube)
@@ -159,6 +160,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 - [Nitter](https://github.com/zedeus/nitter) - A free and open source alternative Twitter front-end focused on privacy and performance. `Nim/AGPL-3.0`.
 
 **[⬆ back to top](#contents)**
+
+### Ultimate Guitar
+
+- [freetar](https://github.com/kmille/freetar) - An alternative front-end for ultimate-guitar.com with a simple design. No ads or pop-ups. `Python/GPL-3.0`.
 
 ### Urban Dictionary
 
