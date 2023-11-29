@@ -121,7 +121,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 ### Reuters
 
-- [Neuters](https://github.com/HookedBehemoth/neuters) - A lightweight, no-javascript, no tracking, alternative front-end to Reuters. `Rust/AGPL-3.0`.
+- [Neuters](https://github.com/HookedBehemoth/neuters) - A lightweight, no-JavaScript, no tracking, alternative front-end to Reuters. `Rust/AGPL-3.0`.
 
 **[⬆ back to top](#contents)**
 
@@ -129,7 +129,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [4Get](https://git.lolcat.ca/lolcat/4get) - A meta search engine that _really_ respects your privacy. `PHP/?`.
 - [Araa](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted metasearch engine. `Python/AGPL-3.0`.
-- [LibreX](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine. `PHP/AGPL-3.0`.
+- [LibreX](https://github.com/hnhx/librex) - Framework and JavaScript free privacy respecting meta search engine. `PHP/AGPL-3.0`.
 - [SearXNG](https://github.com/searxng/searxng) - a free internet meta search engine which aggregates results from various search engines and databases. `Python/AGPL-3.0`.
 - [Whoogle Search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting front-end for Google. `Python/MIT`.
 
@@ -137,7 +137,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 ### Stack Overflow
 
-- [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter. `Go/MPL-2.0`.
+- [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View Stack Overflow in privacy and without the clutter. `Go/MPL-2.0`.
 
 **[⬆ back to top](#contents)**
 
